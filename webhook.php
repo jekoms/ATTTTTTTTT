@@ -1,2 +1,0 @@
-<?php
-echo "THIS IS TELEGRAM API WEBHOOK";
